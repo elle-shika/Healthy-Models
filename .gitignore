@@ -1,0 +1,5 @@
+#ignore vitrual environment
+/LLM
+
+# ignore the trial data
+Trial Response.csv
