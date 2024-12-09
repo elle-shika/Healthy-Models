@@ -3,3 +3,6 @@
 
 # ignore the trial data
 Trial Response.csv
+
+#ignore data prep script
+data preparation.ipynb
