@@ -1,5 +1,4 @@
 # 🚀 **Healthy Models** 
-An analysis on the incorporation of Large Language Models by 
 
 A Data analytics and visualization project focused on exploring the use of Artificial Intelligence (AI) technologies — specifically Large Language Models (LLMs) — among various Ghanaian Healthcare professionals in service delivery. The project evaluates adoption levels, usage patterns, and perceived impact on conventional information sources in healthcare delivery.
 
@@ -44,3 +43,30 @@ A Data analytics and visualization project focused on exploring the use of Artif
 
 ## 📁 Project Structure
 
+
+---
+
+## ⚡ How to Run
+
+1. Open the `HealthyModels.pbix` file in Power BI Desktop.
+2. Ensure your data source paths are correct (if working locally).
+3. Explore the dashboard and slicers for insights.
+4. Export visuals as needed for reporting.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to suggest improvements or add features, please open an issue or submit a pull request.
+
+---
+
+## 📌 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 📬 Contact
+
+For questions or collaborations, please reach out via GitHub Issues or [pamelakushika@gmail.com](mailto:pamelakushika@gmail.com).
