@@ -2,9 +2,10 @@
 
 A Data analytics and visualization project focused on exploring the use of Artificial Intelligence (AI) technologies — specifically Large Language Models (LLMs) — among various Ghanaian Healthcare professionals in service delivery. The project evaluates adoption levels, usage patterns, and perceived impact on conventional information sources in healthcare delivery.
 
-![Healthy Models Dashboard](chatbot.png)(data model pbix.png)
+![Healthy Models Dashboard](/chatbot.png)(/data model pbix.png)
 
-Healthy Models aims to inform digital health strategies and support the safe, effective integration of AI technologies in healthcare delivery 
+Healthy Models aims to inform digital health strategies and support the safe, effective integration of AI technologies in healthcare delivery
+
 ---
 
 ## 📊 Project Objectives
