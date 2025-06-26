@@ -11,7 +11,7 @@ Healthy Models aims to inform digital health strategies and support the safe, ef
 
 | Notebook | Project Report | Published Article | Interactive Visuals |
 |-------------------|----------------|------------------|--------------------|
-| [Healthy Models Analysis Notebook]() | [Report PDF](#) | [Article Link](#) | [Power BI Service](https://app.powerbi.com/links/swaMv_lvl-?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)
+| [Healthy Models Analysis Notebook]() | [Report PDF](https://drive.google.com/file/d/1-xNtyQ_KoXmz7t-AFf1hblFK7Vjzy8LV/view?usp=drive_link) | [Article Link](#) | [Power BI Dashboard](https://app.powerbi.com/links/swaMv_lvl-?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)
 
 ---
 
