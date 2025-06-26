@@ -7,6 +7,13 @@ A Data analytics and visualization project focused on exploring the use of Artif
 Healthy Models aims to inform digital health strategies and support the safe, effective integration of AI technologies in healthcare delivery
 
 ---
+## Summary
+
+| Notebook | Project Report | Published Article | Interactive Visuals |
+|-------------------|----------------|------------------|--------------------|
+| [Healthy Models Analysis Notebook]() | [Report PDF](#) | [Article Link](#) | [Power BI Service](https://app.powerbi.com/links/swaMv_lvl-?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)
+
+---
 
 ## 📊 Project Objectives
 
